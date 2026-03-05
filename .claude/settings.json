@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(pip install hmmlearn --only-binary=:all:)"
-    ]
-  }
-}
